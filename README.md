@@ -79,3 +79,6 @@ truncate table student;
 ![image](https://github.com/Sujithra-dhayalan/G2_DBMS/assets/115523950/ec355b7b-7505-4dc7-ae2c-ba63044c8dcd)
 
 
+## Result
+Thus the student database has been created and executed in DDL queries using SQL.
+
